@@ -1,9 +1,9 @@
 # Leadership
 
-|      FULLNAME          |     Role                        |           URL                                           |
+|      FULLNAME          |     ROLE                        |           URL                                           |
 | ---------------------- | ------------------------------- | ------------------------------------------------------- |
 | Remy DeCausemaker      | Open Source Community Manager   | [decause@devprogress.us](mailto:decause@devprogress.us) |
-| Andrew Brown           | IT Director, DNC                | [ajbrown@devprogress.us](mailto:ajrown@devprogress.us)  |
+| Andrew Brown           | Technology Director, DNC        | [ajbrown@devprogress.us](mailto:ajrown@devprogress.us)  |
 | Derek Parham           | Deputy CTO, Hillary For America | [dparham@devprogress.us](mailto:dparham@devprogress.us) |
 |                        |                                 |                                                         |
 
